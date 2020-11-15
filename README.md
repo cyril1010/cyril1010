@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on nothing tbh 😴
 - 🌱 I’m currently learning python 🐍
 - 🤔 I’m looking for help with engineering studies 😇
-- 📫 How to reach me: ig - @bboycyril_
+- 📫 How to reach me: <a href="https://instagram.com/bboycyril_/">Instagram -- @bboycyril_</a> 
 - ⚡ Fun fact: I got no idea what I'm doing 😇😂
 
 
