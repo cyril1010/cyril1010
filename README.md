@@ -18,3 +18,4 @@
 <a href="https://instagram.com/bboycyril_/" target="blank"> &nbsp <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/cyril1010/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="git" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/cyril-k-u-0a985793" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+ 
