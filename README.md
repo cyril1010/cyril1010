@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning python 🐍
 - 🤔 I’m looking for help with engineering studies 😇
-- 📫 How to reach me: <a href="https://instagram.com/zach_cyril_/">Instagram -- @bboycyril_</a> 
+- 📫 How to reach me: <a href="https://instagram.com/zach_cyril_/"><em>click me</em></a> 
 - ⚡ Fun fact: I got no idea what I'm doing 😇😂
 
 
