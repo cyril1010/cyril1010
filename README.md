@@ -1,7 +1,7 @@
 ### Hi, I'm Cyril.. 👋 
   
 
-- 🌱 I’m currently learning Java 🐍
+- 🌱 I’m currently learning Java ☕
 - 🤔 I’m looking for help with engineering studies 😇
 - 📫 How to reach me: <a href="https://instagram.com/cyrils_magazine/"><em>click me</em></a> 
 - ⚡ Fun fact: I got no idea what I'm doing 😇😂
