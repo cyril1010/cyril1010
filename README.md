@@ -1,8 +1,8 @@
 ### Hi, I'm Cyril.. 👋 
   
 
-- 🌱 I’m currently learning Web development
-- 🤔 I’m looking for help with engineering studies 😇
+<!--- 🌱 I’m currently learning Web development 
+- 🤔 I’m looking for help with engineering studies 😇 -->
 - 📫 How to reach me: <a href="https://www.instagram.com/___cyril__/"><em>click me</em></a> 
 - ⚡ Fun fact: I got no idea what I'm doing 😇😂
 
